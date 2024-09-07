@@ -81,7 +81,7 @@ S-Recon is a Simple shell script (Bash) used to install the most important tools
 ----
 ## How to install
 
-    git clone https://github.com/Micro0x00/Arsenal.git
+    git clone https://github.com/shaid69/S-Recon.git
 	cd S-Recon
 	sudo chmod +x S-Recon.sh
 	sudo ./S-Recon.sh
