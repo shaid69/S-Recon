@@ -83,6 +83,6 @@ S-Recon is a Simple shell script (Bash) used to install the most important tools
 
     git clone https://github.com/shaid69/S-Recon.git
 	cd S-Recon
-	sudo chmod +x S-Recon.sh
-	sudo ./S-Recon.sh
+	sudo chmod +x S-Recon1.sh
+	sudo ./S-Recon1.sh
  
